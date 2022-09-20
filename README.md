@@ -29,7 +29,7 @@ Go to AML gitlab repo: [aml-labs](https://git.ecdf.ed.ac.uk/aml/labs-public.git)
 <img src="assets/step_4.png" width="500" height="200">
 
 #### Step 5: 
-Enter the copied GitLab link in the pop-up window on the Notebook server (leave the optional information blank). Now click *Clone* to copy the labs into Noteable.
+Enter the copied GitLab link in the pop-up window on the Notebook server. Also enter your username (i.e. student number with "s") and the corresponding password. Now click *Clone* to copy the labs into Noteable.
 <br/>
 <img src="assets/step_5.png" width="500" height="200">
 
